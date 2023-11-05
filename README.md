@@ -1,6 +1,6 @@
 <h1 align="center">Hello World I'm Shubhi Pandey</h1>
 <h3 align="center">A Technofile from India</h3>
-<img align="right" alt= "Coding" width = "400" src="https://www.google.com/search?q=girl+coding+images+gif&tbm=isch&ved=2ahUKEwiAs668w6yCAxX9amwGHUevAA4Q2-cCegQIABAA&oq=girl+coding+images+gif&gs_lcp=CgNpbWcQAzoICAAQgAQQsQM6BQgAEIAEOgYIABAHEB46BwgAEIoFEEM6CAgAEAgQBxAeOgYIABAWEB5QhglY3C5gjzJoAHAAeACAAcwBiAH1CpIBBTAuOS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=1V1HZcD0IP3VseMPx96CcA&bih=1025&biw=2133#imgrc=SS1GkdNnlHNJqM&imgdii=fsI9B3cakuWnOM">
+<img align="right" alt= "Coding" width = "400" src="(https://www.google.com/search?q=girl+coding+images+gif&tbm=isch&ved=2ahUKEwiAs668w6yCAxX9amwGHUevAA4Q2-cCegQIABAA&oq=girl+coding+images+gif&gs_lcp=CgNpbWcQAzoICAAQgAQQsQM6BQgAEIAEOgYIABAHEB46BwgAEIoFEEM6CAgAEAgQBxAeOgYIABAWEB5QhglY3C5gjzJoAHAAeACAAcwBiAH1CpIBBTAuOS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=1V1HZcD0IP3VseMPx96CcA&bih=1025&biw=2133#imgrc=SS1GkdNnlHNJqM&imgdii=fsI9B3cakuWnOM](https://tenor.com/view/programming-gif-25868426)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhipandey21&label=Profile%20views&color=0e75b6&style=flat" alt="shubhipandey21" /> </p>
 
