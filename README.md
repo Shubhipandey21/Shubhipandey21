@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/@shubhijbm" target="blank"><img src="https://img.shields.io/twitter/follow/@shubhijbm?logo=twitter&style=for-the-badge" alt="@shubhijbm" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack development**
-- 🌱 Ask me about **Ar/Vr**
+- 🌱 Ask me about **AR/VR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
